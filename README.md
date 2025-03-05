@@ -22,7 +22,7 @@ Entre no diretório do projeto
 ```
 
 
-Inicie o servidor com o Live Server
+<strong>Inicie o servidor com o Live Server</strong>
 
 Para visualizar o projeto no navegador, você precisará iniciar um servidor local. Se você estiver usando o Visual Studio Code, uma maneira fácil de fazer isso é utilizando a extensão Live Server. Siga os passos abaixo:
 
